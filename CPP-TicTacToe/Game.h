@@ -22,6 +22,5 @@ public:
 	virtual void TakeTurn() = 0;
 
 	virtual void Display() const = 0;
-
 };
 
